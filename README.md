@@ -4,7 +4,7 @@
 
 <table width="100%" align="center">
   <tr>
-    <td align="center" valign="top" width="20%"><a href="https://github.com/seokzin"><img src="https://avatars.githubusercontent.com/u/43740455?v=4" alt=""/><br /><p><b>소석진</b></p></a><small></small></td>
+    <td align="center" valign="top" width="20%"><a href="https://github.com/seokzin"><img src="https://avatars.githubusercontent.com/u/43740455?v=4" alt=""/><br /><p><b>소석진</b></p></a><small>다양한 AI 조합으로<br /> 숏폼 만들기</small></td>
     <td align="center" valign="top" width="20%"><a href="https://github.com/YOUJI2"><img src="https://avatars.githubusercontent.com/u/43923432?v=4" alt=""/><br /><p><b>유지훈</b></p></a><small></small></td>
     <td align="center" valign="top" width="20%"><a href="https://github.com/stae1102"><img src="https://avatars.githubusercontent.com/u/83271772?v=4" alt=""/><br /><p><b>이성태</b></p></a><small></small></td>
     <td align="center" valign="top" width="20%"><a href="https://github.com/leeceo97"><img src="https://avatars.githubusercontent.com/u/63772619?v=4" alt=""/><br /><p><b>이형준</b></p></a><small></small></td>
