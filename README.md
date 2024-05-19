@@ -1,5 +1,17 @@
 # SIPE 2기 2차미션 - 개발자도 어차피 생산직이다 생성형 AI를 통해 컨텐츠 생성하기
 
+## 팀 소개
+
+<table width="100%" align="center">
+  <tr>
+    <td align="center" valign="top" width="20%"><a href="https://github.com/seokzin"><img src="https://avatars.githubusercontent.com/u/43740455?v=4" alt=""/><br /><p><b>소석진</b></p></a><small></small></td>
+    <td align="center" valign="top" width="20%"><a href="https://github.com/YOUJI2"><img src="https://avatars.githubusercontent.com/u/43923432?v=4" alt=""/><br /><p><b>유지훈</b></p></a><small></small></td>
+    <td align="center" valign="top" width="20%"><a href="https://github.com/stae1102"><img src="https://avatars.githubusercontent.com/u/83271772?v=4" alt=""/><br /><p><b>이성태</b></p></a><small></small></td>
+    <td align="center" valign="top" width="20%"><a href="https://github.com/leeceo97"><img src="https://avatars.githubusercontent.com/u/63772619?v=4" alt=""/><br /><p><b>이형준</b></p></a><small></small></td>
+    <td align="center" valign="top" width="20%"><a href="https://github.com/JeongJinyong"><img src="https://avatars.githubusercontent.com/u/23720035?v=4" alt=""/><br /><p><b>정진용</b></p></a><small>2분 이상<br/>완성된 노래 만들기</small></td>
+  </tr>
+</table>
+
 ## 목표
 
 범람하는 AI시대에 발맞추기 위하여 이젠 직접 사용해보고 알아가봅니다.
