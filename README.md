@@ -48,6 +48,7 @@
 |  | Suno | [https://suno.com/](https://suno.com/) |
 | **텍스트** | Claude | [https://claude.ai/](https://claude.ai/) |
 |  | ChatGPT | [https://chatgpt.com/](https://chatgpt.com/) |
+|  | lewis | [https://lewis.keytalkai.com/ko/landing](https://lewis.keytalkai.com/ko/landing) |
 | **유틸** | 켄바보드 | [https://www.canva.com/](https://www.canva.com/) |
 
 누구나 새로운 AI를 찾는다면 위에 추가해주세요
