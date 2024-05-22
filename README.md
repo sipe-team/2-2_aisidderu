@@ -51,4 +51,6 @@
 |  | lewis | [https://lewis.keytalkai.com/ko/landing](https://lewis.keytalkai.com/ko/landing) |
 | **유틸** | 켄바보드 | [https://www.canva.com/](https://www.canva.com/) |
 
+[AI모음 Docs](https://docs.google.com/spreadsheets/d/172qyL4ZjAV4Vtl1Ai1n203_CMvFtfJ5lM5WvfX_LOvA/edit?fbclid=IwZXh0bgNhZW0CMTAAAR0KpEwy5l6ijFJNl-naKEQplDJHvrikwDKTJ6bXQNSwDmrc5vTnzeCBrTI_aem_AX4GCvAk-9CJR03ImQD4UAtkPraB9Z-We4gQFO10ayjcNuu_mbcAvgp_vgfC0FMppg5BX5M9lUcxSIu9fBH2lcDr#gid=0)
+
 누구나 새로운 AI를 찾는다면 위에 추가해주세요
